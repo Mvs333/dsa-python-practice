@@ -1,24 +1,18 @@
-\# DSA Python Practice
-
-
-
+ DSA Python Practice:
 Implementations of Data Structures and Algorithms topics from my MCA syllabus (Advanced Data Structure), written in Python — with clean, working code for each concept.
 
 
 
-\## Purpose
-
-
-
+Purpose:
 This repository documents my journey through the Advanced Data Structure syllabus, one topic at a time. Each file is a self-contained implementation of a specific concept, written and tested as I learn it.
 
 
 
-\## Progress
+Progress:
 
 
 
-\### Module 1: Introduction to Data Structures
+ Module 1: Introduction to Data Structures
 
 \- \[x] Complexity Analysis (Big-O, Omega, Theta; Best/Worst/Average Case)
 
@@ -110,17 +104,11 @@ python binary\_search.py
 
 
 
-\## Tech Used
+ Tech Used:  Python 3
 
 
 
-\- Python 3
-
-
-
-\## About
-
-
+About:
 
 Maintained by Manav, MCA student at Amity Institute of Information Technology, Amity University Maharashtra. Built as part of coursework and personal practice, with a focus on understanding each concept deeply enough to explain it, not just implement it.
 
